@@ -3,6 +3,8 @@
 
 #project dependencies
 npm_modules
+node_modules
+package.json
 
 #temporary files
 *.tmp
